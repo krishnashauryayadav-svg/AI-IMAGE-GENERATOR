@@ -31,8 +31,8 @@ Before running or deploying this project, you **MUST** create a local environmen
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com
-   cd ai-image-generator
+   git clone https://github.com/krishnashauryayadav-svg/AI-IMAGE-GENERATOR
+   cd AI-IMAGE-GENERATOR
    ```
 
 2. **Create and Activate Virtual Environment (Optional but Recommended):**
